@@ -1,0 +1,14 @@
+C:\Users\User\source\LBC#\traffic\traffic\obj\Debug\net7.0\traffic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\LBC#\traffic\traffic\obj\Debug\net7.0\traffic.AssemblyInfoInputs.cache
+C:\Users\User\source\LBC#\traffic\traffic\obj\Debug\net7.0\traffic.AssemblyInfo.cs
+C:\Users\User\source\LBC#\traffic\traffic\obj\Debug\net7.0\traffic.csproj.CoreCompileInputs.cache
+C:\Users\User\source\LBC#\traffic\traffic\bin\Debug\net7.0\traffic.exe
+C:\Users\User\source\LBC#\traffic\traffic\bin\Debug\net7.0\traffic.deps.json
+C:\Users\User\source\LBC#\traffic\traffic\bin\Debug\net7.0\traffic.runtimeconfig.json
+C:\Users\User\source\LBC#\traffic\traffic\bin\Debug\net7.0\traffic.dll
+C:\Users\User\source\LBC#\traffic\traffic\bin\Debug\net7.0\traffic.pdb
+C:\Users\User\source\LBC#\traffic\traffic\obj\Debug\net7.0\traffic.dll
+C:\Users\User\source\LBC#\traffic\traffic\obj\Debug\net7.0\refint\traffic.dll
+C:\Users\User\source\LBC#\traffic\traffic\obj\Debug\net7.0\traffic.pdb
+C:\Users\User\source\LBC#\traffic\traffic\obj\Debug\net7.0\traffic.genruntimeconfig.cache
+C:\Users\User\source\LBC#\traffic\traffic\obj\Debug\net7.0\ref\traffic.dll
